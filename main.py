@@ -21,7 +21,7 @@ html_content = '''
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> SONU ALL TOOLS</title>
+    <title>SERVER MENU</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
    <link rel="stylesheet" href="style.css" type="text/css" media="all" />
     <style>
@@ -317,7 +317,7 @@ h4{
     <header>
     <nav>
         <ul class='nav-bar'>
-            <div class="text-2xl text-primary">𝐌𝐀𝐃𝐄 𝐁𝐘 𝗥𝗔𝗝 𝐑𝐀𝐉𝐏𝐔𝐓♚</div>
+            <div class="text-2xl text-primary">𝐌𝐀𝐃𝐄 𝐁𝐘 𝗗𝗲𝘃𝗶 𝐑𝐀𝐉𝐏𝐔𝐓♚</div>
             <input type='checkbox' id='check' />
             <span class="menu">
                 <li><a href="https://github.com//Web-to-web-single/blob/main/README.md">WEB TO WEB SINGLE</a ></li>
@@ -335,13 +335,13 @@ h4{
     </nav>
     </header>
     <br />
-    <h2>WEB SERVER OWNER ➤ RAJ</h2>
+    <h2>WEB SERVER OWNER ➤ 𝗗𝗲𝘃𝗶</h2>
     <br />
     <div class="image-container">
   <img src="https://i.ibb.co/MkLznmq/1733508313623.jpg" alt="Image" class="image">
    <h1>➤ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴏᴡɴᴇʀ꧂</h1>
 <br />
-<button class="button-34" role="button" onclick="window.location.href='https://wa.me/+917362774544'">⊲ CONTACT ⊳</button>
+<button class="button-34" role="button" onclick="window.location.href='https://wa.me/+923263342276'">⊲ CONTACT ⊳</button>
     <br />
     <br />
         <div class="image-containe">
